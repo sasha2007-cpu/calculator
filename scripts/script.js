@@ -1,9 +1,3 @@
-// if (false) {
-//   console.log('Ok')
-// } else {
-//   console.log('Booom')
-// }
-
 let isResult = false
 let screen = document.querySelector('.screen')
 
